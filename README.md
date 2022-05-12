@@ -1,6 +1,6 @@
 Welcome to My GitHub Profile 👋 
 
-I am a Computer Science and Engineering Graduate. I like to read books, watch movies and shows, explore websites and love trying new tools and softwares.
+I am a Masters student in Informatics. I am extremely interested in Cybersecurity and Information Security. I like to read books, watch movies and shows, explore websites and love trying new tools and softwares.
 
 Skills and Technologies I know:</br>
 ------------------------------------------------------------------------------
@@ -16,16 +16,15 @@ Skills and Technologies I know:</br>
 ![MICROSOFT OFFICE](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=Kali-Linux&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0061D5?style=for-the-badge&logo=Nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
 </br>
 </br>
 </br>
 
 I’m currently learning 
 ------------------------------------------------------------------------------
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
 ![Cyber Security](https://img.shields.io/badge/Cyber_Security-0089D6?style=for-the-badge&logo=Cyber-Security&logoColor=white)
 ![BurpSuite](https://img.shields.io/badge/BurpSuite-F26822?style=for-the-badge&logo=BurpSuite&logoColor=white)
-![Gcp](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 </br>
 </br>
 </br>
